@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#4267B6</color>
+    <color name="red">#C31223</color>
+    <color name="blue">#2196F3</color>       <!-- Material Blue -->
+    <color name="dark_blue">#1976D2</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="navy_blue">#0D47A1</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray">#555555</color>
+
+</resources>
